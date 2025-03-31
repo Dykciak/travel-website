@@ -27,7 +27,7 @@ const HamburgerMenu = () => {
 				onClick={toggleMenu}
 			/>
 			<div
-				className={`fixed top-0 right-0 z-20 w-full h-full bg-green-600 text-white p-5 transform transition-transform duration-300 ease-in-out ${
+				className={`fixed top-0 right-0 z-20 w-full h-full bg-white text-white p-5 transform transition-transform duration-300 ease-in-out ${
 					isOpen ? "translate-x-0" : "translate-x-full"
 				}`}
 			>
