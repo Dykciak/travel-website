@@ -50,7 +50,7 @@ const Guide = () => {
 								Wonojero Pasuruan
 							</h4>
 						</div>
-					</div>
+					</div>s
 				</div>
 			</div>
 		</section>
