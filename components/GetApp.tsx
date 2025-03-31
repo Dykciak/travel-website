@@ -10,7 +10,7 @@ const GetApp = () => {
 						Get for free now!
 					</h2>
 					<p className="regular-16 text-gray-10">
-						Available on iOS and Android
+						Available on iOS and Android!
 					</p>
 					<div className="flex w-full flex-col gap-3 whitespace-nowrap xl:flex-row">
 						<Button
